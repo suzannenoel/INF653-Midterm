@@ -1,6 +1,6 @@
 # INF653 Midterm Project - Quotes REST API
 
-**Author:** [Your Name Here]
+**Author:** Suzanne_Todd
 
 **Live Project:** [Add your deployed project URL here]
 
