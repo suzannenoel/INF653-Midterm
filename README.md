@@ -2,7 +2,7 @@
 
 **Author:** Suzanne_Todd
 
-**Live Project:** [Add your deployed project URL here]
+**Live Project:** https://inf653-midterm-uvfm.onrender.com
 
 ---
 
@@ -12,7 +12,7 @@ A PHP OOP REST API for managing quotations. Supports full CRUD operations for qu
 
 ## Database Setup
 
-Run the SQL in `database_setup.sql` to create and seed the database.
+Run the SQL in `database_setup.sql` to create the database.
 
 ## API Endpoints
 
